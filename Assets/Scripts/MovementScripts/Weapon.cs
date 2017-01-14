@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+	Generic weapon class.
+*/
 public class Weapon : MonoBehaviour 
 {
 	public int ammo = 3;
